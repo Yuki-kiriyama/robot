@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2024-09-24T04:51:14Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.87,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Dynamxel"
+        },
+        "Owner": "  <200447026@ccmailg.meijo-u.ac.jp>",
+        "Size": {
+            "X": 25,
+            "Y": 47
+        }
+    }
+}
